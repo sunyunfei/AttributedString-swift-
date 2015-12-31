@@ -1,0 +1,2 @@
+# AttributedString-swift
+这个是swift版本的AttributedString的相关的知识点，根据官方API一步一步进行。
